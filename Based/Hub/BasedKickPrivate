@@ -1,3 +1,4 @@
+wait(0.6)
 getglobal game
 getfield -1 Players
 getfield -1 LocalPlayer
