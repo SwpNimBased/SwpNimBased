@@ -27,6 +27,20 @@ Tab2:Button("Soft Bed",function()
     loadstring(game:HttpGet("https://cdn.discordapp.com/attachments/947705523585835008/1005526028606775336/out.lua.txt",true))()
 end)
 --BritishHub:
+Tab3:Label("By Redcoat | BritishHub")
+Tab3:Button("British Hub",function()
+    loadstring(game:HttpGet(('https://cdn.discordapp.com/attachments/996659065096765502/996659173213343804/out.lua'),true))()
+end)
+--ProHub:
+Tab4:Label("Unknown Owner But Yeah")
+Tab4:Button("ProHub",function()
+    loadstring(game:HttpGet(("https://raw.githubusercontent.com/Kindasua/v.2/main/Is%20here"), true))()
+end)
+--UselessAgain:
+Tab5:Label("Released Time At 8/10/22, 01:30:36 PM")
+Tab5:Label("No Dev Workers Only KarlLavender")
+Tab5:Label("Don't Try Even DeoObfucate It 🤡")
+Tab5:Label("This Is all Thank You!")
 
 
 
